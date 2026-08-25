@@ -1,6 +1,5 @@
 # =============================================================================
 # 01 — Preparar os dados (leitura + limpeza)
-#
 # Como usar:
 # 1. Abra o projeto semana4.Rproj no RStudio (isso já define a pasta de trabalho).
 # 2. Source neste arquivo (Ctrl+Shift+S) ou rode linha a linha.
